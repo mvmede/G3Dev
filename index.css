@@ -1,0 +1,35 @@
+
+
+.header-container div {
+    border: 2px solid #ffffff;
+    border-style: dotted;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+    color: #ffffff ;
+    display: inline-block;
+    flex-flow:wrap;
+
+}
+
+.c1 {
+    background-color: rgb(77, 168, 85);
+    padding-top: 20px;
+}
+.c2 {
+    background-color: rgb(76, 145, 145);
+    padding-top: 20px;
+}
+.c3 {
+    background-color: rgb(66, 116, 145);
+    padding-top: 20px;
+}
+.c4 {
+    background-color: rgb(65, 66, 153);
+    padding-top: 20px;
+}
+.c5 {
+    background-color: rgb(104, 55, 136);
+    padding-top: 20px;
+}
